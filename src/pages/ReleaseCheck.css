@@ -1,0 +1,30 @@
+.table-container {
+    margin-top: 20%;
+    justify-self: center;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container {
+    background: white;
+    color: black;
+    padding: 20px 10px;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.view:hover {
+    cursor: pointer;
+}
+
+.delete:hover {
+    cursor: pointer;
+}
+
+.breadcrumb-container {
+    display: flex;
+}

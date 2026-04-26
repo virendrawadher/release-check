@@ -1,0 +1,45 @@
+[
+    {
+        "_id": "123456",
+        "name": "Version 1.0.1",
+        "date": 1777182652,
+        "additional_info": "This is addintional info",
+        "steps": [{
+            "name": "Add changelog",
+            "status": 0
+        }, {
+            "name": "Fix version bug",
+            "status": 0
+        }],
+        "status": 0
+    },
+    {
+        "_id": "123457",
+        "name": "Version 1.0.2",
+        "date": 1777182652,
+        "additional_info": "This is addintional info",
+        "steps": [{
+            "name": "Add changelog",
+            "status": 0
+        }, {
+            "name": "Fix version bug",
+            "status": 1
+        }],
+        "status": 1
+    },
+    {
+        "_id": "123458",
+        "name": "Version 1.0.3",
+        "date": 1777182652,
+        "additional_info": "This is addintional info",
+        "steps": [{
+            "name": "Add changelog",
+            "status": 1
+        }, {
+            "name": "Fix version bug",
+            "status": 1
+        }],
+        "status": 2
+    }
+
+]
